@@ -4,7 +4,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $sortingOrder = $_POST['sorting_order']; 
     $displayLimit = $_POST['display_limit'];
     }
-}
 ?>
 
 <!DOCTYPE html>
